@@ -4,7 +4,7 @@
   "description": "一款基于nodejs的股票爬虫工具",
   "main": "src/index.js",
   "scripts": {
-    "doc": "node build/doc.js"
+    "test": "exit 1"
   },
   "author": "wangkj",
   "license": "MIT",
